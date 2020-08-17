@@ -7,4 +7,5 @@ feature of blog webapp:
 2)-creating model manager
 3)-pagintation
 4)-class-based views
-5)sharing posts by email
+5)-sharing posts by email
+6)-tagging system 
